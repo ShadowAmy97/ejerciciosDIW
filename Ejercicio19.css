@@ -1,0 +1,35 @@
+.contenedor{
+    margin: 0 auto;
+    height: 28em;
+    width: 23em;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.centrar{
+    margin: auto;
+    margin-top: 3em;
+    height: 20em;
+    width: 225px;
+}
+img{
+    border-radius: 140px;
+}
+p{
+    text-align: center;
+    font-size: 23px;
+    
+}
+.boton{
+    background: linear-gradient(to right, red, rgb(143, 13, 194));
+    border-radius: 5px;
+    height: 3em;
+    width: 10em;
+    text-align: center;
+    margin: auto;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
